@@ -1,0 +1,13 @@
+a,ul,h1,h2,h3,h4,h5,h6,p,pre,ol,dl,dt,dd,body,input,textarea,select,div{
+	margin: 0;padding: 0;list-style: none;font-family: "宋体";
+}
+body a{text-decoration: none;
+
+}
+body{
+	padding: 0;margin:0;
+}
+.bothbox{
+	min-width: 1170px;
+
+}
